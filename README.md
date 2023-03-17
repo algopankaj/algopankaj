@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-business-light-effect-line-mesh-blue-technology-banner-image_804264.jpg) -->
 
-<h1 align="center">Hi 👋, I'm Pankaj Chauhan</h1>
+<h1 align="center">Hi,I'm Pankaj Chauhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!-- <img align="right" alt="Coding" width="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
