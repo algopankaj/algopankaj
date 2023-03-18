@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-business-light-effect-line-mesh-blue-technology-banner-image_804264.jpg)
+<!-- ![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-business-light-effect-line-mesh-blue-technology-banner-image_804264.jpg) -->
 
 <h1 align="center">Hi , I'm Pankaj Chauhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
