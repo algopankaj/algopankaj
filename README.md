@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-                            width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Manoar</a> </h1>
+                            width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Pankaj</a> </h1>
 <div align="center">
-<a href="mailto:tarikmanoar@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pankaj21905@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://tarikmanoar.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-<a href="https://facebook.com/tarikmanoar"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tarikmanoar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/algopankaj/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/tarikmanoar/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/tarikmanoar"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
 <a href="https://gitlab.com/tarikmanoar"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=algopankaj.tarikmanoar)
 
 <br />
 
@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
+<a href="https://github.com/algopankaj" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=algopankaj&repo=html&theme=radical" />
 </a>    
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
+<a href="https://github.com/algopankaj" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=algopankaj&repo=kajki&theme=radical" />
 </a>
 -->
 <!--
@@ -86,13 +86,13 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats
 <div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikmanoar&theme=radical" alt="tarikmanoar" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=algopankaj&theme=radical" alt="algopankaj" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=algopankaj&show_icons=true&locale=en&theme=radical" alt="algopankaj" />
 </div>
 <br>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=algopankaj&theme=redical)
 
 
 <hr>
